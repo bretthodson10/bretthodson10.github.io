@@ -86,3 +86,7 @@ body { font-family: system-ui, sans-serif; margin: 20px 0; padding: 0 25px; }
 .nav a:hover {
   text-decoration: underline;
 }
+
+html { scroll-behavior: smooth; }
+
+.work { scroll-margin-top: 80px; }
