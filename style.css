@@ -5,7 +5,7 @@ body { font-family: system-ui, sans-serif; margin: 20px 0; padding: 0 25px; }
   align-items: center;
   flex-wrap: wrap;      /* lets it wrap onto two lines on small phones */
   gap: 10px;
-  padding: 16px 20px;   /* replaces margin-top so the sticky bar has no gap above it */
+  padding: 16px 0;   /* replaces margin-top so the sticky bar has no gap above it */
   position: sticky;
   top: 0;               /* sticks to the top of the window while you scroll */
   z-index: 100;         /* keeps it above the content that scrolls underneath */
