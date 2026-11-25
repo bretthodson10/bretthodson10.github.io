@@ -24,7 +24,7 @@ body { font-family: system-ui, sans-serif; max-width: 800px; margin: 20px 0; pad
 }
 
 .nav-link {
-  margin-left: auto;      /* pushes it to the far right */
+  margin-left: 20px;      /* pushes it to the far right */
   color: inherit;
   text-decoration: none;
 }
