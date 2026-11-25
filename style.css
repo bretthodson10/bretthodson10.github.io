@@ -1,4 +1,4 @@
-body { font-family: system-ui, sans-serif; max-width: 800px; margin: 40px 10; padding: 0 16px; }
+body { font-family: system-ui, sans-serif; max-width: 800px; margin: 40px 0; padding: 0 16px; }
 
 .site-header {
   display: flex;
@@ -11,6 +11,7 @@ body { font-family: system-ui, sans-serif; max-width: 800px; margin: 40px 10; pa
 .site-title {
   font-size: 1.6rem;
   font-weight: 700;
+  margin-left: 20px;
 }
 
 .divider {
