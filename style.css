@@ -144,3 +144,5 @@ html { scroll-behavior: smooth; }
 .project img { width: 100%; height: auto; border-radius: 10px; margin: 16px 0; display: block; }
 
 .steps .crop-top { object-position: center 28%; }
+
+.steps .crop-top-more { object-position: center 40%; }
